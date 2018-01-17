@@ -1,0 +1,21 @@
+img {
+    width: 300px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 2rem;
+}
+
+.hottest, .news {
+    display: flex;
+    flex-direction: row;
+}
+
+.news h3 {
+    color: brown
+}
+
+p {
+    background-color: darkkhaki
+}
